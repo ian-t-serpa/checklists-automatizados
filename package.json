@@ -1,0 +1,15 @@
+{
+  "name": "projeto-altimus",
+  "version": "1.0.0",
+  "description": "testes automatizados",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Ian T. Serpa",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.5.1",
+    "mochawesome": "^7.1.3"
+  }
+}
